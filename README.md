@@ -43,3 +43,4 @@ Si el monto es menor que cero entonces se cancela la operación
  
  
 ## Etapa 03. Desarrollo de la solución
+![](https://github.com/JJPalomino/EjerciciosEnParejas1/blob/master/Diagrama%20de%20clases%20ejercicio%201.png)
